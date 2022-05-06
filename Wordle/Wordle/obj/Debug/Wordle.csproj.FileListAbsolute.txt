@@ -1,0 +1,8 @@
+S:\Evobyte\Sapt1\Wordle\Wordle\bin\Debug\Wordle.exe.config
+S:\Evobyte\Sapt1\Wordle\Wordle\bin\Debug\Wordle.exe
+S:\Evobyte\Sapt1\Wordle\Wordle\bin\Debug\Wordle.pdb
+S:\Evobyte\Sapt1\Wordle\Wordle\obj\Debug\Wordle.csproj.AssemblyReference.cache
+S:\Evobyte\Sapt1\Wordle\Wordle\obj\Debug\Wordle.csproj.SuggestedBindingRedirects.cache
+S:\Evobyte\Sapt1\Wordle\Wordle\obj\Debug\Wordle.csproj.CoreCompileInputs.cache
+S:\Evobyte\Sapt1\Wordle\Wordle\obj\Debug\Wordle.exe
+S:\Evobyte\Sapt1\Wordle\Wordle\obj\Debug\Wordle.pdb
